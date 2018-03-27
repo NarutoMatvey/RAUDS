@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Разработка алгаритма учёта денежных средств</string>
+    <string name="about_program">О программе</string>
+    <string name="categories">Категории</string>
+    <string name="select_currency">Выбор валюты</string>
+    <string name="settings">Настройки</string>
+
+    <string name="income">Доходы</string>
+    <string name="costs">Расходы</string>
+    <string name="saving">Сбережения</string>
+    <string name="all_incomes">Все доходы</string>
+    <string name="all_costs">Все расходы</string>
+    <string name="all_saving">Все сбережения</string>
+    <string name="balance">Баланс: </string>
+
+    <string name="password">Пароль</string>
+    <string name="search">Поиск...</string>
 </resources>
