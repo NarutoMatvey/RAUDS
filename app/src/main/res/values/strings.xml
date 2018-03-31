@@ -4,6 +4,9 @@
     <string name="categories">Категории</string>
     <string name="select_currency">Выбор валюты</string>
     <string name="settings">Настройки</string>
+    <string name="edit">Редактировать</string>
+    <string name="remove">Удалить</string>
+
 
     <string name="income">Доходы</string>
     <string name="costs">Расходы</string>
@@ -12,7 +15,11 @@
     <string name="all_costs">Все расходы</string>
     <string name="all_saving">Все сбережения</string>
     <string name="balance">Баланс: </string>
+    <string name="date">Дата</string>
+    <string name="amount">Сумма</string>
+    <string name="time">Время</string>
+    <string name="comment">Коментарий</string>
 
     <string name="password">Пароль</string>
-    <string name="search">Поиск...</string>
+    <string name="search">Поиск…</string>
 </resources>
