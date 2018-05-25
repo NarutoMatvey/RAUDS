@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">Разработка алгаритма учёта денежных средств</string>
     <string name="about_program">О программе</string>
-    <string name="categories">Категории</string>
-    <string name="select_currency">Выбор валюты</string>
+    <string name="categories">Выбор категории</string>
+    <string name="currency">Валюта</string>
     <string name="settings">Настройки</string>
     <string name="edit">Редактировать</string>
     <string name="remove">Удалить</string>
@@ -18,7 +18,7 @@
     <string name="date">Дата</string>
     <string name="amount">Сумма</string>
     <string name="time">Время</string>
-    <string name="comment">Коментарий</string>
+    <string name="comment">Коментарий...</string>
 
     <string name="password">Пароль</string>
     <string name="search">Поиск…</string>
