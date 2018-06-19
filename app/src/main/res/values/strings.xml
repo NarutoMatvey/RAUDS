@@ -18,8 +18,9 @@
     <string name="date">Дата</string>
     <string name="amount">Сумма</string>
     <string name="time">Время</string>
-    <string name="comment">Коментарий...</string>
+    <string name="comment">Коментарий…</string>
 
     <string name="password">Пароль</string>
     <string name="search">Поиск…</string>
+    <string name="zero">000.00</string>
 </resources>

@@ -16,9 +16,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StatisticPageActivity" />
-        <activity android:name=".AddingPageActivity" />
-        <activity android:name=".CategoriesPageActivity"></activity>
+        <activity
+            android:name=".StatisticPageActivity"
+            android:label="@string/all_costs"/>
+        <activity
+            android:name=".AddingPageActivity"
+            android:label="@string/costs"/>
+        <activity
+            android:name=".CategoriesPageActivity"
+            android:label="@string/categories"
+            />
     </application>
 
 </manifest>
